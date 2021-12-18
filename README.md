@@ -1,1 +1,9 @@
-# StudManagement
+# StudManagement![Screenshot 2021-12-18 at 4 49 49 PM](https://user-images.githubusercontent.com/89531054/146640232-d096e6e5-ccec-4ad0-ba47-f0a7206c7ac2.png)
+![Screenshot 2021-12-18 at 4 53 17 PM](https://user-images.githubusercontent.com/89531054/146640233-68c6b5c8-fd11-44a8-a751-1327ef6a5929.png)
+![Screenshot 2021-12-18 at 4 56 58 PM](https://user-images.githubusercontent.com/89531054/146640235-69461be8-f354-4a0e-ba17-476e1054f0c8.png)
+![Screenshot 2021-12-18 at 5 10 23 PM](https://user-images.githubusercontent.com/89531054/146640242-56156271-8e52-4bfd-9927-4f2726e7fdc0.png)
+![Screenshot 2021-12-18 at 5 14 40 PM](https://user-images.githubusercontent.com/89531054/146640246-76b02d0b-afc0-4936-9135-f73f20ce48ad.png)
+![Screenshot 2021-12-18 at 5 17 49 PM](https://user-images.githubusercontent.com/89531054/146640263-589f4f4a-4458-4e2d-b9ff-88544bf82e53.png)
+![Screenshot 2021-12-18 at 5 20 55 PM](https://user-images.githubusercontent.com/89531054/146640270-f69926da-28a7-4015-9b09-b7007a727094.png)
+![Screenshot 2021-12-18 at 5 21 21 PM](https://user-images.githubusercontent.com/89531054/146640274-5b4d3992-5ee0-4223-a458-4bed5246ee44.png)
+![Screenshot 2021-12-18 at 5 28 02 PM 1](https://user-images.githubusercontent.com/89531054/146640279-393f7fc5-e959-4c52-9b97-896b47e1ad5d.png)
